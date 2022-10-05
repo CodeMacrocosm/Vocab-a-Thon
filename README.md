@@ -6,7 +6,7 @@ An exhaustive collection of words as json files for easy access.
 
 ## How to contribute 
 
-> [Refer the template provided below to add your word](https://github.com/)
+> [Refer the template provided below to add your word](https://github.com/CodeMacrocosm/Vocabathon/blob/main/contributions.md)
 
 
 ## Create your first pull request :sunglasses:
