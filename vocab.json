@@ -31,8 +31,15 @@
 },
 "5":{
       "word":"lethargy"
-       "definitions":[
-            "inactivity;showing an usual lack of energy"
+      "definitions":[
+           "inactivity;showing an usual lack of energy"
         ],
         "parts-of-speech":"noun"
+},
+"6":{
+     "word":"atrocity" 
+     "definitions":[
+          "an act of shocking cruelty"
+      ],
+      "parts-of-speech": "noun"
 },
