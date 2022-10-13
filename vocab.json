@@ -76,8 +76,26 @@
       "parts-of-speech": "verb"
 },
 
+"11":{
+     "word":"tea" 
+     "definitions":[
+          "a hot drink made by infusing the dried crushed leaves of the tea plant in boiling water."
+      ],
+      "parts-of-speech": "noun"
+},
 
+"12":{
+     "word":"music" 
+     "definitions":[
+          "vocal or instrumental sounds (or both) combined in such a way as to produce beauty of form, harmony, and expression of emotion."
+      ],
+      "parts-of-speech": "noun"
+},
 
-
-
-
+"13":{
+     "word":"gaslight" 
+     "definitions":[
+          "manipulate (someone) by psychological means into doubting their own sanity."
+      ],
+      "parts-of-speech": "verb"
+},
