@@ -73,9 +73,7 @@
      "definitions":[
           "to talk about something in a way that makes it sound better than it really is."
       ],
-      "parts-of-speech": "verb"
-},
-
+      "parts-of-speech": "
 "11":{
      "word":"tea" 
      "definitions":[
@@ -98,4 +96,11 @@
           "manipulate (someone) by psychological means into doubting their own sanity."
       ],
       "parts-of-speech": "verb"
+},
+"":{
+     "word":"mind" 
+     "definitions":[
+          "It keep cool "
+      ],
+      "parts-of-speech": "adjective"
 },
