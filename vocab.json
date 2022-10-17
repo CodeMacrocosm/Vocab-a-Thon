@@ -106,10 +106,21 @@
           "watchful and discreet"
       ],
       "parts-of-speech": "adjective"
+},
+
 "15":{
     "word": "Love",
     "definitions": [
         "an intense feeling of deep affection"
     ],
     "parts-of-speech": "Noun"
+},
+
+
+"16":{
+    "word": "splendid",
+    "definitions": [
+        "used to emphasize the isolation of a person or thing",
+    ],
+    "parts-of-speech": "Adjective"
 },
