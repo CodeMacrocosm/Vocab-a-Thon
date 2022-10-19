@@ -1,140 +1,140 @@
  "1":{
-    "word": "ruminate",
+    "word": "unique",
     "definitions": [
-        "to chew the cud"
-    ],
-    "parts-of-speech": "Verb"
-},
-
-"2":{
-    "word": "virtue",
-    "definitions": [
-        "The power to produce to produce good results"
+        "a unique person or thing"
     ],
     "parts-of-speech": "Noun"
 },
 
-"3":{
-    "word": "perk",
+"2":{
+    "word": "thirsty",
     "definitions": [
-        "To raise smartly or briskly"
+        "feeling a need to drink"
     ],
     "parts-of-speech": "Adjective"
 },
 
+"3":{
+    "word": "Woodnote",
+    "definitions": [
+        "a wild or natural musical tone,as that of a forest bird"
+    ],
+    "parts-of-speech": "Noun"
+},
+
 "4":{
-      "word": "merchandise"
+      "word": "brevity"
       "defiitions":[
-          "goods bought and sold for profit,trade"
+          "the quality of expressing much in few words"
         ],
        "parts-of-speech": "noun"
 },
 "5":{
-      "word":"feature"
+      "word":"Ossify"
       "definitions":[
-           "a distinctive attribute or aspect of something"
+           "to become rigid or inflexible in habits,attitudes,opinions,etc"
         ],
-        "parts-of-speech":"noun"
+        "parts-of-speech":"verb"
 },
 "6":{
-     "word":"honorific" 
+     "word":"peacocking" 
      "definitions":[
-          "a merely honorary word or title"
+          "Acting flashy and flamboyant to attract people"
       ],
-      "parts-of-speech": "adjective"
+      "parts-of-speech": "verb"
 },
 
 "7":{
-     "word":"mettled" 
+     "word":"dabster" 
      "definitions":[
-          "high spirited, ardent and courageous"
+          "an expert"
       ],
-      "parts-of-speech": "adjective"
+      "parts-of-speech": "Noun"
 },
 
 "8":{
-     "word":"quintile" 
+     "word":"toska" 
      "definitions":[
-          "one of the points or marks dividing a frequency distribution into 5 parts each having the same frequency"
+          "ache of soul;longing with nothing to long for"
       ],
       "parts-of-speech": "noun"
 },
 
 "9":{
-     "word":"sordid" 
+     "word":"arcane" 
      "definitions":[
-          "caring too much for money; meanly selfish"
+          "secret, mysterious,understood by few"
       ],
       "parts-of-speech": "adjective"
 },
 
 "10":{
-     "word":"romanticize" 
+     "word":"flyspeck" 
      "definitions":[
-          "to talk about something in a way that makes it sound better than it really is."
+          "a tiny stain"
       ],
-      "parts-of-speech": "verb"
+      "parts-of-speech": "Noun"
 },
 
 "11":{
-     "word":"xenophilia" 
+     "word":"Gambit" 
      "definitions":[
-          "friendship towards foreign persons or things"
+          "a device, action,or opening remark"
       ],
       "parts-of-speech": "noun"
 },
 
 "12":{
-     "word":"tractate" 
+     "word":"heliophilia" 
      "definitions":[
-          " A short essay on a particular subject, treatise"
+          "desire to stay in the sun;love of sunlight"
       ],
       "parts-of-speech": "noun"
 },
 
 "13":{
-     "word":" rennet " 
+     "word":" Nabob " 
      "definitions":[
-          "an enzyme in the gastric juice that coagulates or curdles milk"
+          "any very wealthy,influential,or powerful person"
       ],
       "parts-of-speech": "noun"
 },
 
 "14":{
-     "word":" circumspect " 
+     "word":" previse " 
      "definitions":[
-          "watchful and discreet"
+          "to foresee"
       ],
-      "parts-of-speech": "adjective"
+      "parts-of-speech": "verb"
 },
 
 "15":{
-    "word": "Love",
+    "word": "supine",
     "definitions": [
-        "an intense feeling of deep affection"
+        "lying face upwards"
     ],
-    "parts-of-speech": "Noun"
+    "parts-of-speech": "Adjective"
 },
 
 
 "16":{
-    "word": "splendid",
+    "word": "Eccedentesiast",
     "definitions": [
-        "used to emphasize the isolation of a person or thing",
+        "ssomeone who hides pain behind a smile",
     ],
-    "parts-of-speech": "Adjective"
+    "parts-of-speech": "Noun"
 },
 "17":{
-     "word":"egregious",
+     "word":"ineffable",
      "definitions":[
-          "extraordinary in some bad way",
+          "too great to be expressed in words",
       ],
       "parts-of-speech":"Adjective"
  },
 "18":{
-     "word":"adorable",
+     "word":"Tanaka",
      "definitions":[
-          "inspiring great affection or delight",
+          "The good times that come after a long struggle or hardship.",
       ],
-      "parts-of-speech":"Adjective"
+      "parts-of-speech":"Noun"
  },
