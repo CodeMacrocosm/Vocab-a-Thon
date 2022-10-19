@@ -1,148 +1,147 @@
  "1":{
-    "word": "unique",
+    "word": "virtual",
     "definitions": [
-        "a unique person or thing"
+        "almost or nearly as described"
     ],
-    "parts-of-speech": "Noun"
+    "parts-of-speech": "adjective"
 },
 
 "2":{
-    "word": "thirsty",
+    "word": "exquisite",
     "definitions": [
-        "feeling a need to drink"
+        "extremely beautiful and delicate"
     ],
     "parts-of-speech": "Adjective"
 },
 
 "3":{
-    "word": "Woodnote",
+    "word": "euphoria",
     "definitions": [
-        "a wild or natural musical tone,as that of a forest bird"
+        "a feeling or state of intense excitement and happiness"
     ],
     "parts-of-speech": "Noun"
 },
 
 "4":{
-      "word": "brevity"
+      "word": "crush"
       "defiitions":[
-          "the quality of expressing much in few words"
+          "compress or squeeze forcefully so as to break"
         ],
-       "parts-of-speech": "noun"
+       "parts-of-speech": "verb"
 },
 "5":{
-      "word":"Ossify"
+      "word":"deliberate"
       "definitions":[
-           "to become rigid or inflexible in habits,attitudes,opinions,etc"
+           "done consciously and intentionally"
         ],
-        "parts-of-speech":"verb"
+        "parts-of-speech":"adjective"
 },
 "6":{
-     "word":"peacocking" 
+     "word":"collateral" 
      "definitions":[
-          "Acting flashy and flamboyant to attract people"
-      ],
-      "parts-of-speech": "verb"
-},
-
-"7":{
-     "word":"dabster" 
-     "definitions":[
-          "an expert"
-      ],
-      "parts-of-speech": "Noun"
-},
-
-"8":{
-     "word":"toska" 
-     "definitions":[
-          "ache of soul;longing with nothing to long for"
+          "something pledged as security for repayment of a loan, to be forfeited in the event of a default"
       ],
       "parts-of-speech": "noun"
 },
 
-"9":{
-     "word":"arcane" 
+"7":{
+     "word":"abundant" 
      "definitions":[
-          "secret, mysterious,understood by few"
+          "available in large quantities"
       ],
       "parts-of-speech": "adjective"
 },
 
-"10":{
-     "word":"flyspeck" 
+"8":{
+     "word":"ruminate" 
      "definitions":[
-          "a tiny stain"
+          "think deeply about something"
       ],
-      "parts-of-speech": "Noun"
+      "parts-of-speech": "verb"
 },
 
-"11":{
-     "word":"Gambit" 
+"9":{
+     "word":"perk" 
      "definitions":[
-          "a device, action,or opening remark"
+          "such as money or goods"
       ],
       "parts-of-speech": "noun"
 },
 
-"12":{
-     "word":"heliophilia" 
+"10":{
+     "word":"abandon" 
      "definitions":[
-          "desire to stay in the sun;love of sunlight"
+          "cease to support"
       ],
+      "parts-of-speech": "verb"
+},
+
+"11":{
+     "word":"latent" 
+     "definitions":[
+          "existing but not yet developed"
+      ],
+      "parts-of-speech": "ajective"
+},
+
+"12":{
+     "word":"indubitable" 
+     "definitions":[
+          "impossible to doubt"],                                                                                                                                          
       "parts-of-speech": "noun"
 },
 
 "13":{
-     "word":" Nabob " 
+     "word":" colonel " 
      "definitions":[
-          "any very wealthy,influential,or powerful person"
+          "a rank of officer in the army and in the US air force, above a lieutenant colonel and below a brigadier"
       ],
       "parts-of-speech": "noun"
 },
 
 "14":{
-     "word":" previse " 
+     "word":" anemone " 
      "definitions":[
-          "to foresee"
+          "a plant of the buttercup family which typically has brightly coloured flowers and deeply divided leaves"
       ],
-      "parts-of-speech": "verb"
+      "parts-of-speech": "noun"
 },
 
 "15":{
-    "word": "supine",
+    "word": "mischievous",
     "definitions": [
-        "lying face upwards"
+        "showing a fondness for causing trouble in a playful way"
     ],
     "parts-of-speech": "Adjective"
 },
 
 
 "16":{
-    "word": "Eccedentesiast",
+    "word": "alacrity",
     "definitions": [
-        "ssomeone who hides pain behind a smile",
+        "brisk and cheerful readiness",
     ],
     "parts-of-speech": "Noun"
 },
 "17":{
-     "word":"ineffable",
+     "word":"flink",
      "definitions":[
-          "too great to be expressed in words",
+          "brave, showing no pain",
       ],
       "parts-of-speech":"Adjective"
  },
 "18":{
-     "word":"Tanaka",
+     "word":"intelligence",
      "definitions":[
-          "The good times that come after a long struggle or hardship.",
+          "the ability to acquire and apply knowledge and skills.",
       ],
       "parts-of-speech":"Noun"
  },
 
 "19":{
-     "word":"insanity",
+     "word":"phenomenon",
      "definations":[
-          "The state of being seriously mentally ill",
+          "situation that is observed to exist or happen",
      ],
      "parts-of-speach": "Noun"
 },
