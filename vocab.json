@@ -1,148 +1,148 @@
  "1":{
-    "word": "unique",
+    "word": "euphoria",
     "definitions": [
-        "a unique person or thing"
+        "a feeling of intense execitement and happiness"
     ],
     "parts-of-speech": "Noun"
 },
 
 "2":{
-    "word": "thirsty",
+    "word": "crush",
     "definitions": [
-        "feeling a need to drink"
+        "Compress or squeeze forcefully so as to break"
     ],
-    "parts-of-speech": "Adjective"
+    "parts-of-speech": "verb"
 },
 
 "3":{
-    "word": "Woodnote",
+    "word": "deliberate",
     "definitions": [
-        "a wild or natural musical tone,as that of a forest bird"
+        "Done consciously and intenstionly"
     ],
-    "parts-of-speech": "Noun"
+    "parts-of-speech": "adjective"
 },
 
 "4":{
-      "word": "brevity"
+      "word": "ruminate"
       "defiitions":[
-          "the quality of expressing much in few words"
+          " Think deeply about something"
         ],
-       "parts-of-speech": "noun"
+       "parts-of-speech": "verb"
 },
 "5":{
-      "word":"Ossify"
+      "word":"perk"
       "definitions":[
-           "to become rigid or inflexible in habits,attitudes,opinions,etc"
+           "Such as money or something"
         ],
-        "parts-of-speech":"verb"
+        "parts-of-speech":"noun"
 },
 "6":{
-     "word":"peacocking" 
+     "word":"abandon" 
      "definitions":[
-          "Acting flashy and flamboyant to attract people"
+          "To leave a place,thing,or person"
       ],
       "parts-of-speech": "verb"
 },
 
 "7":{
-     "word":"dabster" 
+     "word":"anemone"
      "definitions":[
-          "an expert"
+          " A plant if a buttercup family"
       ],
       "parts-of-speech": "Noun"
 },
 
 "8":{
-     "word":"toska" 
+     "word":"mischievous" 
      "definitions":[
-          "ache of soul;longing with nothing to long for"
-      ],
-      "parts-of-speech": "noun"
-},
-
-"9":{
-     "word":"arcane" 
-     "definitions":[
-          "secret, mysterious,understood by few"
+          "Showing a found for causing a trouble"
       ],
       "parts-of-speech": "adjective"
 },
 
-"10":{
-     "word":"flyspeck" 
+"9":{
+     "word":"glory" 
      "definitions":[
-          "a tiny stain"
+          "The quality of being magnificent"
       ],
-      "parts-of-speech": "Noun"
+      "parts-of-speech": "noun"
+},
+
+"10":{
+     "word":"flink" 
+     "definitions":[
+          "Brave, showing no pain"
+      ],
+      "parts-of-speech": "adjective"
 },
 
 "11":{
-     "word":"Gambit" 
+     "word":"intelligence" 
      "definitions":[
-          "a device, action,or opening remark"
+          "The ability to acquire and apply knowledge and skills"
       ],
       "parts-of-speech": "noun"
 },
 
 "12":{
-     "word":"heliophilia" 
+     "word":"phenomenon" 
      "definitions":[
-          "desire to stay in the sun;love of sunlight"
+          "Situation taht is observed to exist or happen"
       ],
       "parts-of-speech": "noun"
 },
 
 "13":{
-     "word":" Nabob " 
+     "word":" Latent " 
      "definitions":[
-          "any very wealthy,influential,or powerful person"
+          "Existing but not a developed"
+      ],
+      "parts-of-speech": "adjective"
+},
+
+"14":{
+     "word":" Indubitable " 
+     "definitions":[
+          "Impossible to doubt"
       ],
       "parts-of-speech": "noun"
 },
 
-"14":{
-     "word":" previse " 
-     "definitions":[
-          "to foresee"
-      ],
-      "parts-of-speech": "verb"
-},
-
 "15":{
-    "word": "supine",
+    "word": "alacrity",
     "definitions": [
-        "lying face upwards"
+        "Brisk and cheerful readiness"
     ],
-    "parts-of-speech": "Adjective"
+    "parts-of-speech": "noun"
 },
 
 
 "16":{
-    "word": "Eccedentesiast",
+    "word": "colonel",
     "definitions": [
-        "ssomeone who hides pain behind a smile",
+        "A rank if a officer in the army and in the US Airforce",
     ],
     "parts-of-speech": "Noun"
 },
 "17":{
-     "word":"ineffable",
+     "word":"collateral",
      "definitions":[
-          "too great to be expressed in words",
+          "Something pledged as security for repayment of a loan",
       ],
-      "parts-of-speech":"Adjective"
+      "parts-of-speech":"noun"
  },
 "18":{
-     "word":"Tanaka",
+     "word":"abundant",
      "definitions":[
-          "The good times that come after a long struggle or hardship.",
+          "Available in large quantities.",
       ],
-      "parts-of-speech":"Noun"
+      "parts-of-speech":"adjective"
  },
 
 "19":{
-     "word":"insanity",
+     "word":"virtual",
      "definations":[
-          "The state of being seriously mentally ill",
+          "Almost or nearly as described,but completely or according to strict definition",
      ],
-     "parts-of-speach": "Noun"
+     "parts-of-speach": "adjective"
 },
