@@ -1,133 +1,132 @@
  "1":{
-    "word": "ruminate",
+    "word": "virtual",
     "definitions": [
-        "to chew the cud"
+        "almost or nearly as described"
     ],
-    "parts-of-speech": "Verb"
+    "parts-of-speech": "adjective"
 },
 
 "2":{
-    "word": "virtue",
+    "word": "exquisite",
     "definitions": [
-        "The power to produce to produce good results"
-    ],
-    "parts-of-speech": "Noun"
-},
-
-"3":{
-    "word": "perk",
-    "definitions": [
-        "To raise smartly or briskly"
+        "extremely beautiful and delicate"
     ],
     "parts-of-speech": "Adjective"
 },
 
+"3":{
+    "word": "euphoria",
+    "definitions": [
+        "a feeling or state of intense excitement and happiness"
+    ],
+    "parts-of-speech": "Noun"
+},
+
 "4":{
-      "word": "merchandise"
+      "word": "crush"
       "defiitions":[
-          "goods bought and sold for profit,trade"
+          "compress or squeeze forcefully so as to break"
         ],
-       "parts-of-speech": "noun"
+       "parts-of-speech": "verb"
 },
 "5":{
-      "word":"feature"
+      "word":"deliberate"
       "definitions":[
-           "a distinctive attribute or aspect of something"
+           "done consciously and intentionally"
         ],
-        "parts-of-speech":"noun"
+        "parts-of-speech":"adjective"
 },
 "6":{
-     "word":"honorific" 
+     "word":"bunch" 
      "definitions":[
-          "a merely honorary word or title"
+          "a number of things typically of the same kind growing are fastened to together"
       ],
-      "parts-of-speech": "adjective"
+      "parts-of-speech": "noun"
 },
 
 "7":{
-     "word":"mettled" 
+     "word":"abundant" 
      "definitions":[
-          "high spirited, ardent and courageous"
+          "available in large quantities"
       ],
       "parts-of-speech": "adjective"
 },
 
 "8":{
-     "word":"quintile" 
+     "word":"ruminate" 
      "definitions":[
-          "one of the points or marks dividing a frequency distribution into 5 parts each having the same frequency"
+          "think deeply about something"
+      ],
+      "parts-of-speech": "verb"
+},
+
+"9":{
+     "word":"perk" 
+     "definitions":[
+          "such as money or goods"
       ],
       "parts-of-speech": "noun"
 },
 
-"9":{
-     "word":"sordid" 
-     "definitions":[
-          "caring too much for money; meanly selfish"
-      ],
-      "parts-of-speech": "adjective"
-},
-
 "10":{
-     "word":"romanticize" 
+     "word":"abandon" 
      "definitions":[
-          "to talk about something in a way that makes it sound better than it really is."
+          "cease to support"
       ],
       "parts-of-speech": "verb"
 },
 
 "11":{
-     "word":"xenophilia" 
+     "word":"latent" 
      "definitions":[
-          "friendship towards foreign persons or things"
+          "existing but not yet developed"
       ],
-      "parts-of-speech": "noun"
+      "parts-of-speech": "ajective"
 },
 
 "12":{
-     "word":"tractate" 
+     "word":"indubitable" 
      "definitions":[
-          " A short essay on a particular subject, treatise"
-      ],
+          "impossible to doubt"],                                                                                                                                          
       "parts-of-speech": "noun"
 },
 
 "13":{
-     "word":" rennet " 
+     "word":" colonel " 
      "definitions":[
-          "an enzyme in the gastric juice that coagulates or curdles milk"
+          "a rank of officer in the army and in the US air force, above a lieutenant colonel and below a brigadier"
       ],
       "parts-of-speech": "noun"
 },
 
 "14":{
-     "word":" circumspect " 
+     "word":" anemone " 
      "definitions":[
-          "watchful and discreet"
+          "a plant of the buttercup family which typically has brightly coloured flowers and deeply divided leaves"
       ],
-      "parts-of-speech": "adjective"
+      "parts-of-speech": "noun"
 },
 
 "15":{
-    "word": "Love",
+    "word": "mischievous",
     "definitions": [
-        "an intense feeling of deep affection"
+        "showing a fondness for causing trouble in a playful way"
     ],
-    "parts-of-speech": "Noun"
+    "parts-of-speech": "Adjective"
 },
 
 
 "16":{
-    "word": "splendid",
+    "word": "alacrity",
     "definitions": [
-        "used to emphasize the isolation of a person or thing",
+        "brisk and cheerful readiness",
     ],
-    "parts-of-speech": "Adjective"
+    "parts-of-speech": "Noun"
 },
 "17":{
-     "word":"egregious",
+     "word":"flink",
      "definitions":[
-          "extraordinary in some bad way",
+          "brave, showing no pain",
       ],
       "parts-of-speech":"Adjective"
  },
@@ -138,4 +137,74 @@
         "to light up",
     ],
     "parts-of-speech": "Noun"
+
+"19":{
+     "word":"intelligence",
+     "definitions":[
+          "the ability to acquire and apply knowledge and skills.",
+      ],
+      "parts-of-speech":"Noun"
+ },
+
+"20":{
+     "word":"phenomenon",
+     "definations":[
+          "situation that is observed to exist or happen",
+     ],
+     "parts-of-speach": "Noun"
 },
+
+"21":{
+     "word":"epiphany",
+     "definations":[
+          "a moment of sudden and great revelation",
+     ],
+     "parts-of-speach": "Noun"
+},
+
+22":{
+     "word":"anonymous",
+     "definations":[
+          "not identified by name, individual, unusual",
+     ],
+     "parts-of-speach": "adjective"
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
