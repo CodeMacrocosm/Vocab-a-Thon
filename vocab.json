@@ -162,7 +162,7 @@
      "parts-of-speach": "Noun"
 },
 
-22":{
+"22":{
      "word":"anonymous",
      "definations":[
           "not identified by name, individual, unusual",
@@ -170,7 +170,7 @@
      "parts-of-speach": "adjective"
 },
 
-23":{
+"23":{
      "word":"miracle",
      "definations":[
           "a lucky thing that happens that you did not expect or think was possible",
@@ -178,7 +178,13 @@
      "parts-of-speach": "noun"
 },
 
-
+"24":{
+     "word":"discordant",
+     "definations":[
+          "the operative principle of democracy is a balance of discordant qualities",
+     ],
+     "parts-of-speach": "adjective"
+},
 
 
 
