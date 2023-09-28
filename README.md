@@ -11,7 +11,7 @@ Welcome to Vocabathon, your ultimate resource for an extensive collection of wor
 
 ## About Vocabathon 📣
 
-Vocabathon is hosted and curated by Shreya Malogi. The mission of Vocabathon is to create a collaborative platform where word aficionados from around the globe can contribute and access a diverse and comprehensive collection of words and their meanings.
+Vocabathon is hosted by Shreya Malogi. Its core mission is to foster a collaborative environment where word enthusiasts from across the globe can actively contribute to and access a rich and diverse repository of words and their corresponding meanings.
 
 ## Why Contribute? 🤝
 
