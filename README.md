@@ -1,25 +1,54 @@
 
+
+
+<div align="center">
+
 # Vocab-a-Thon' 22 📚✨ Where Words Come to Play and Stay! 🔤 🔍📖
 
-[![Contributors](https://img.shields.io/badge/Contributors-30-brightgreen.svg)]()
+</div>
+<p align="center">
+  <a href="https://github.com/CodeMacrocosm/Vocab-a-Thon-22/stargazers">
+    <img src="https://img.shields.io/github/stars/CodeMacrocosm/Vocab-a-Thon-22?style=flat-square" alt="GitHub stars">
+  </a>
+  <a href="https://github.com/CodeMacrocosm/Vocab-a-Thon-22/network">
+    <img src="https://img.shields.io/github/forks/CodeMacrocosm/Vocab-a-Thon-22?style=flat-square" alt="GitHub forks">
+  </a>
+  <a href="https://github.com/codemacrocosm/Vocab-a-Thon-22/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/codemacrocosm/Vocab-a-Thon-22.svg" alt="GitHub contributors">
+  </a>
+  <img src="https://img.shields.io/github/license/CodeMacrocosm/Vocab-a-Thon-22" alt="GitHub">
+</p>
 
-[![Forks](https://img.shields.io/badge/Forks-31-blue.svg)]()
+<div align="center">
 
-[![Stars](https://img.shields.io/badge/Stars-24-yellow.svg)]()
+### ✨ Hall Of Fame
 
-Welcome to Vocabathon, your ultimate resource for an extensive collection of words stored in JSON files, designed for easy access and exploration. Whether you're an avid wordsmith, a language enthusiast, or simply looking to expand your vocabulary, Vocabathon is the place for you! 🌟
+Thanks goes to these amazing people for their contributions 🎉🎉🎉
 
-## About Vocabathon 📣
+<a href="https://github.com/codeMacrocosm/Vocab-a-Thon-22/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=codeMacrocosm/Vocab-a-Thon-22" />
+</a>
 
-Vocabathon is hosted by Shreya Malogi. Its core mission is to foster a collaborative environment where word enthusiasts from across the globe can actively contribute to and access a rich and diverse repository of words and their corresponding meanings.
+</div>
 
-## Why Contribute? 🤝
 
-- **Enrich Your Vocabulary:** By contributing to Vocabathon, you not only share your favorite words but also help others discover and learn new terms.
 
-- **Support a Linguistic Community:** Join a community of language enthusiasts and learners who share a common love for words and their nuances.
 
-- **Educational Resource:** Vocabathon serves as a valuable educational resource for students, teachers, writers, and anyone looking to enhance their language skills.
+### Table of Contents 📚
+
+1. [Overview](#overview)
+3. [How to Contribute?](#https://github.com/CodeMacrocosm/Vocab-a-Thon-22/edit/main/README.md#how-to-contribute-%EF%B8%8F)
+4. [Star it](#how-to-star-)
+5. [License](#-license)
+6. [Thanks Contributors](#contributors-)
+
+
+---
+
+## Overview
+
+Welcome to Vocabathon! Your go-to resource for a vast collection of words in JSON files, hosted by **Shreya Malogi**. Dive into a collaborative space where word enthusiasts globally contribute to and explore an extensive repository of words and meanings. 🌟📣
+
 
 ## How to Contribute 🖋️
 
@@ -34,7 +63,7 @@ Click the "Fork" button at the top right corner of this repository to create you
 Clone the forked repository from your account to your local machine:
 
 ```bash
-git clone https://github.com/shreyamalogi/Vocab-a-Thon-22.git
+git clone https://github.com/codemacrocosm/Vocab-a-Thon-22.git
 ```
 
 ### 3. Add Your Word 📝
@@ -93,9 +122,9 @@ Here's an example of how a word and its definitions should be formatted in the J
 
 Vocabathon is not only about contributing but also about exploration. Feel free to browse through the growing collection of words and their meanings to enhance your vocabulary.
 
-## ⭐ Star It
+## How to Star ⭐
 
-If you find Vocabathon helpful and engaging, don't forget to give it a star ⭐ to express your appreciation and support! 🌟
+If you enjoyed this repo or find them inspiring, don't forget to ⭐ the repository! Your support is appreciated.
 
 ## 📄 License
 
@@ -103,36 +132,20 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 MIT License
 
-Copyright (c) 2022 CodeMacrocosm
+Copyright (c) 2021 CodeMacrocosm
 
 
-## 🎉 Contributors 
 
-- [shanbinary](https://github.com/shanbinary)
-- [mattagajamgangothri](https://github.com/mattagajamgangothri)
-- [Prad55ep](https://github.com/Prad55ep)
-- [Chinmay1292](https://github.com/Chinmay1292)
-- [SakshiDosani](https://github.com/SakshiDosani)
-- [imrohitroy23](https://github.com/imrohitroy23)
-- [swayamterode](https://github.com/swayamterode)
-- [RoHitHai](https://github.com/RoHitHai)
-- [Vai300](https://github.com/Vai300)
-- [sameera-7](https://github.com/sameera-7)
-- [Menenispandana](https://github.com/Menenispandana)
-- [IbrahimShareeff](https://github.com/IbrahimShareeff)
-- [Vidyasindu](https://github.com/Vidyasindu)
-- [saha-rj](https://github.com/saha-rj)
-- [Ankithajalagam](https://github.com/Ankithajalagam)
-- [KoduruNaveen](https://github.com/KoduruNaveen)
-- [k0ustav](https://github.com/k0ustav)
-- [niharikaponugoti](https://github.com/niharikaponugoti)
-- [ShivaniThudimilla](https://github.com/ShivaniThudimilla)
-- [chandrasangna](https://github.com/chandrasangna)
-- [Pratyusha-spec](https://github.com/Pratyusha-spec)
-- [miswaryousuf](https://github.com/miswaryousuf)
-- [prakash-sah-lab](https://github.com/prakash-sah-lab)
+## Contributors 🙌
 
-Thank you to all our contributors for their valuable contributions to Vocabathon! 🌟
+A big thanks to all the creative minds who have contributed.
+
+Now, let the creation begin! 🎨
+
+Happy coding! 🚀🎉
+
+## Happy Hacking! 🎃👾
+
 
 
 **Maintained by [@shreyamalogi](https://github.com/shreyamalogi) 🌟**
