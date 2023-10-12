@@ -3,7 +3,7 @@
 
 <div align="center">
 
-# Vocab-a-Thon' 22 📚✨ Where Words Come to Play and Stay! 🔤 🔍📖
+# Vocab-a-Thon' 22 📚✨ Words Come to Play 🔤 
 
 </div>
 <p align="center">
@@ -47,7 +47,7 @@ Thanks goes to these amazing people for their contributions 🎉🎉🎉
 
 ## Overview
 
-Welcome to Vocabathon! Your go-to resource for a vast collection of words in JSON files, hosted by **Shreya Malogi**. Dive into a collaborative space where word enthusiasts globally contribute to and explore an extensive repository of words and meanings. 🌟📣
+Welcome to Vocabathon!🔍📖 Your go-to resource for a vast collection of words in JSON files, hosted by **Shreya Malogi**. Dive into a collaborative space where word enthusiasts globally contribute to and explore an extensive repository of words and meanings. 🌟📣
 
 
 ## How to Contribute 🖋️
