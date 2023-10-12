@@ -3,7 +3,7 @@
 
 <div align="center">
 
-# Vocab-a-Thon' 22 📚✨ Words Come to Play 🔤 
+# Vocab-a-Thon' 22 📚✨ Words Wonderland 🔤 
 
 </div>
 <p align="center">
@@ -37,7 +37,7 @@ Thanks goes to these amazing people for their contributions 🎉🎉🎉
 ### Table of Contents 📚
 
 1. [Overview](#overview)
-3. [How to Contribute?](#https://github.com/CodeMacrocosm/Vocab-a-Thon-22/edit/main/README.md#how-to-contribute-%EF%B8%8F)
+3. [How To Contribute](#how-to-contribute)
 4. [Star it](#how-to-star-)
 5. [License](#-license)
 6. [Thanks Contributors](#contributors-)
@@ -50,7 +50,7 @@ Thanks goes to these amazing people for their contributions 🎉🎉🎉
 Welcome to Vocabathon!🔍📖 Your go-to resource for a vast collection of words in JSON files, hosted by **Shreya Malogi**. Dive into a collaborative space where word enthusiasts globally contribute to and explore an extensive repository of words and meanings. 🌟📣
 
 
-## How to Contribute 🖋️
+## How to Contribute 
 
 Adding your favorite words to Vocabathon is a simple process:
 
@@ -132,7 +132,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 MIT License
 
-Copyright (c) 2021 CodeMacrocosm
+Copyright (c) 2022 CodeMacrocosm
 
 
 
