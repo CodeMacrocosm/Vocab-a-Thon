@@ -203,7 +203,7 @@
               "a fleet of warships"
           ],
           "parts-of-speech": "noun"
-      
+
 },
 
 "27":{
@@ -213,7 +213,7 @@
               "items that are discarded from a ship on purpose that later end up on shore"
           ],
           "parts-of-speech": "noun"
-      
+ 
 },
 
 "28":{
@@ -233,9 +233,17 @@
         "a person who is very interested in an activity or subject"
      ],
      "parts-of-speech": "noun"
+ 
+},
 
- 
- 
+ "30":{
+     
+     "word": "refinement",
+     "definitions": [
+        "the process of removing impurities or unwanted elements from a substance."
+     ],
+     "parts-of-speech": "noun"
+  
 },
 
 
