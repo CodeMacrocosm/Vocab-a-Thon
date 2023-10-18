@@ -137,6 +137,7 @@
         "to light up",
     ],
     "parts-of-speech": "Noun"
+},
 
 "19":{
      "word":"intelligence",
@@ -268,7 +269,15 @@
   
 },
 
-
+"33":{
+     
+     "word": "Jovial",
+     "definitions": [
+        "cheerful and friendly."
+     ],
+     "parts-of-speech": "adjective"
+  
+},
 
 
 
