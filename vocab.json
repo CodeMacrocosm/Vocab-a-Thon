@@ -246,7 +246,19 @@
   
 },
 
- "31":{
+
+"31":{
+     
+     "word": "magnificent",
+     "definitions": [
+        "extremely beautiful, elaborate, or impressive."
+     ],
+     "parts-of-speech": "adjective"
+  
+},
+
+
+ "32":{
      
      "word": "acknowledgement",
      "definitions": [
@@ -255,6 +267,7 @@
      "parts-of-speech": "noun"
   
 },
+
 
 
 
