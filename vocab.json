@@ -246,6 +246,7 @@
   
 },
 
+
 "31":{
      
      "word": "magnificent",
@@ -256,7 +257,17 @@
   
 },
 
- 
+
+ "32":{
+     
+     "word": "acknowledgement",
+     "definitions": [
+        "acceptance of the truth or existence of something."
+     ],
+     "parts-of-speech": "noun"
+  
+},
+
 
 
 
