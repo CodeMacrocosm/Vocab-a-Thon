@@ -3,7 +3,7 @@
 
 <div align="center">
 
-# Vocab-a-Thon' 22 📚✨ Words Wonderland 🔤 
+# Vocab-a-Thon' 22 📚 Word's Wonderland 🔤 
 
 </div>
 <p align="center">
