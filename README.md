@@ -7,16 +7,16 @@
 
 </div>
 <p align="center">
-  <a href="https://github.com/CodeMacrocosm/Vocab-a-Thon-22/stargazers">
+  <a href="https://github.com/CodeMacrocosm/Vocab-a-Thon/stargazers">
     <img src="https://img.shields.io/github/stars/CodeMacrocosm/Vocab-a-Thon-22?style=flat-square" alt="GitHub stars">
   </a>
-  <a href="https://github.com/CodeMacrocosm/Vocab-a-Thon-22/network">
+  <a href="https://github.com/CodeMacrocosm/Vocab-a-Thon/network">
     <img src="https://img.shields.io/github/forks/CodeMacrocosm/Vocab-a-Thon-22?style=flat-square" alt="GitHub forks">
   </a>
-  <a href="https://github.com/codemacrocosm/Vocab-a-Thon-22/graphs/contributors">
+  <a href="https://github.com/codemacrocosm/Vocab-a-Thon/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/codemacrocosm/Vocab-a-Thon-22.svg" alt="GitHub contributors">
   </a>
-  <img src="https://img.shields.io/github/license/CodeMacrocosm/Vocab-a-Thon-22" alt="GitHub">
+  <img src="https://img.shields.io/github/license/CodeMacrocosm/Vocab-a-Thon" alt="GitHub">
 </p>
 
 <div align="center">
@@ -25,8 +25,8 @@
 
 Thanks goes to these amazing people for their contributions 🎉🎉🎉
 
-<a href="https://github.com/codeMacrocosm/Vocab-a-Thon-22/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=codeMacrocosm/Vocab-a-Thon-22" />
+<a href="https://github.com/codeMacrocosm/Vocab-a-Thon/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=codeMacrocosm/Vocab-a-Thon" />
 </a>
 
 </div>
@@ -63,7 +63,7 @@ Click the "Fork" button at the top right corner of this repository to create you
 Clone the forked repository from your account to your local machine:
 
 ```bash
-git clone https://github.com/codemacrocosm/Vocab-a-Thon-22.git
+git clone https://github.com/codemacrocosm/Vocab-a-Thon.git
 ```
 
 ### 3. Add Your Word 📝
